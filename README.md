@@ -1,3 +1,4 @@
 # этот репозиторий
 
 **в этом репозитории будет публиковаться софт из телеграмма,плагины,впн и многое другое. также я разрабатываю свой форк телеграмма(для людей которым нужна независимость от Паши) и которые хотят сделать свой мессенджер на своих серверах. так же вы можете давать в [Pull requests](https://github.com/ghoul37438/Software-and-applications/pulls) сборки впн,приложения,софты и многое другое.Мы расмотрим предложение каждого пользователя**
+[![Proton Mail](https://shields.io/Mail-wertixr@proton.me-6d4aff?style=flat-square&logo=proton&logoColor=white)](mailto:wertixr@proton.me)
