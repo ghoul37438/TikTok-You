@@ -87,15 +87,18 @@
 
 ## 📬 Защищенные контакты
 
-Для приватных вопросов, предложений или отправки софта в обход публичных реквестов, используйте наши прямые каналы связи:
-
 **wertixr@proton.me**
 **kegadevsstudio@gmail.com**
 **t.me/@wertixr**
-**t.me@exofs**
+**t.me@sexofs**
 
 <div align="center">
 
 **Давайте построим независимую экосистему вместе! 🕶️**
+
+**wertixr@proton.me**
+**kegadevsstudio@gmail.com**
+**t.me/@wertixr**
+**t.me@sexofs**
 
 </div>
