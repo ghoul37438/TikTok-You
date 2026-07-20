@@ -87,18 +87,14 @@
 
 ## 📬 Защищенные контакты
 
-**wertixr@proton.me**
-**kegadevsstudio@gmail.com**
-**t.me/@wertixr**
-**t.me@sexofs**
+* 📧 **ProtonMail:** wertixr@proton.me
+* 📧 **Gmail:** kegadevsstudio@gmail.com
+* 💬 **Разработчик:** [t.me/wertixr](https://t.me/@wertixr)
+* 📢 **Канал/Чат:** [t.me/sexofs](https://t.me/@sexofs)
 
 <div align="center">
 
 **Давайте построим независимую экосистему вместе! 🕶️**
 
-**wertixr@proton.me**
-**kegadevsstudio@gmail.com**
-**t.me/@wertixr**
-**t.me@sexofs**
-
 </div>
+
