@@ -10,10 +10,6 @@
 
 **TDLib Engine · Docker-Powered · Полная Автономия · Приватность · Независимость**
 
-[![Status](https://shields.io)](#-текущий-статус-разработки)
-[![License](https://shields.io)](LICENSE)
-[![Telegram](https://shields.io)](https://t.me)
-
 </div>
 
 ---
