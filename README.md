@@ -29,7 +29,7 @@
 > 💡 **Обратите внимание:** Версии могут публиковаться в разнобой. Чтобы найти самую свежую сборку, всегда ориентируйтесь по **последней дате** в списке ниже.
 
 * **19.07.26** ⚡ `TikTok You v3.4 (45.9.3)` — Архитектура: *ARM-8*. Свежий актуальный релиз, стабильная работа. [Скачать](https://github.com/ghoul37438/Software-and-applications/releases/tag/TikTok)
-* **21.07.26** ⚡ `TikTok You v3.4 (45.9.3)` — Архитектура: *ARM-7*. Старый релиз, нестабильная работа. [Скачать](https://github.com/ghoul37438/Software-and-applications/releases/tag/Arm-7)
+* **21.07.26** ⚡ `TikTok You v1.5.1(44.6.4)` — Архитектура: *ARM-7*. Старый релиз, нестабильная работа. [Скачать](https://github.com/ghoul37438/Software-and-applications/releases/tag/Arm-7)
 
 ---
 
