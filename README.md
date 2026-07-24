@@ -85,8 +85,8 @@
 
 * 📧 **ProtonMail:** [wertixr](wertixr@proton.me)
 * 📧 **Gmail:** [kega dev](kegadevsstudio@gmail.com)
-* 💬 **Разработчик:** [@wertixr](https://t.me/@wertixr)
-* 📢 **Канал/Чат:** [@sexofs](https://t.me/@sexofs)
+* 💬 **CEO:** [@wertixr](https://t.me/@wertixr)
+* 📢 **St.Owner:** [@sexofs](https://t.me/@sexofs)
 
 <div align="center">
 
