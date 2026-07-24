@@ -29,6 +29,7 @@
 - [x] Проектирование архитектуры и схемы локальных баз данных, отключение от телеграмма
 - [x] Интеграция и оптимизация официального ядра TDLib
 - [x] Добавление новых функций
+- [ ] Переработка MTProto и TDLib для максимальной производительности и наименьшего пинга
 - [ ] Сборка первых тестовых клиентов (В процессе)
 - [ ] Старт закрытых тестов стабильности сетевых воркеров 🔓
 - [ ] Публичный релиз готовых Docker-контейнеров для self-host развертывания
@@ -85,8 +86,8 @@
 
 * 📧 **ProtonMail:** [wertixr](wertixr@proton.me)
 * 📧 **Gmail:** [kega dev](kegadevsstudio@gmail.com)
-* 💬 **CEO:** [@wertixr](https://t.me/@wertixr)
-* 📢 **St.Owner:** [@sexofs](https://t.me/@sexofs)
+* 📧 **CEO:** [@wertixr](https://t.me/@wertixr)
+* 📧 **Owner:** [@sexofs](https://t.me/@sexofs)
 
 <div align="center">
 
